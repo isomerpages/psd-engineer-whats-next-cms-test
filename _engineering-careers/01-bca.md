@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: BCA
 permalink: /engineering-careers/bca/
 breadcrumb: BCA
-collection_name: engineering-careers
+
 ---
+
 
 ### A BIT ABOUT US
 An agency under the Ministry of National Development, BCA champions the development of a future-ready built environment that is safe, high quality, sustainable and friendly. “Built environment” refers to buildings, and infrastructure in our surroundings that provide the setting for the community’s activities. 
