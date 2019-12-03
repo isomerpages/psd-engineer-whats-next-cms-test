@@ -1,146 +1,180 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-
-- title: Meet the Engineers
-  url: /meet-the-engineers/wee-kiang/
-  sub-links:
-  - title: Chee Wee Kiang
-    url: /meet-the-engineers/wee-kiang/
-  - title: Ahmad Nadim bin Zainal
-    url: /meet-the-engineers/ahmad-nadim/
-  - title: Norman Tan
-    url: /meet-the-engineers/Norman/
-  - title: Laura Lee
-    url: /meet-the-engineers/laura/
-  - title: Goh Chue Hsien
-    url: /meet-the-engineers/Goh-Chue-Hsien/
-  - title: Faisal Ahmad
-    url: /meet-the-engineers/Faisal-Ahmad/
-  - title: Cindy Wang Xiaochen
-    url: /meet-the-engineers/Cindy-Wang-Xiaochen/
-  - title: Hoon Ding Yi
-    url: /meet-the-engineers/Hoon-Ding-Yi/
-  - title: Idaly Mamat
-    url: /meet-the-engineers/Idaly-Mamat/ 
-  - title: Zann Tay
-    url: /meet-the-engineers/Zann-Tay/
-  - title: Chee Wee Liang
-    url: /meet-the-engineers/Chua-Wee-Liang/
-  - title: Farook Maideen
-    url: /meet-the-engineers/Farook-Maideen/
-  - title: Khairunnisa Binte Yahya
-    url: /meet-the-engineers/Khairunnisa-Binte-Yahya/
-  - title: Chen Juncheng
-    url: /meet-the-engineers/Chen-Juncheng/
- 
- 
-- title: Engineering Marvels
-  url: /engineering-Marvels/Punggol-Digital-District/
-  sub-links:
-  - title: Punggol Digital District
-    url: /engineering-marvels/Punggol-Digital-District/
-  - title: Parents Gateway
-    url: /engineering-marvels/Parents-Gateway/
-  - title: Tuas Desalination Plant
-    url: /engineering-marvels/Tuas-Desalination-Plant/
-  - title: SkyLab
-    url: /engineering-marvels/SkyLab/
-  - title: Electronic Tourist Refund Scheme
-    url: /engineering-marvels/etrs/    
-  - title: Integrated Digital Delivery
-    url: /engineering-marvels/idd/
-  - title: Flood-free Orchard Road
-    url: /engineering-marvels/SDC-SDT/
-  - title: Jurong Rock Caverns
-    url: /engineering-marvels/Jurong-Rock-Caverns/
-  - title: Smart Planning for HDB Towns
-    url: /engineering-marvels/Smart-Plan/
-  - title: Southern Ridges
-    url: /engineering-marvels/Southern-Ridges/
-  - title: Marina Bay
-    url: /engineering-marvels/Marina-Bay/
-  - title: The Integrated Waste Management Facility
-    url: /engineering-marvels/iwmf/
-  - title: Littoral Mission Vessel
-    url: /engineering-marvels/Littoral/
-  - title: Heron 1 Uav
-    url: /engineering-marvels/Heron/ 
-  - title: Singapore LNG Terminal
-    url: /engineering-marvels/LNG/ 
-  - title: MyResponder
-    url: /engineering-marvels/Myresponder/ 
-    
-    
-- title: Types of Engineering
-  url: /types-of-engineering/chemical/
-  sub-links:
-  - title: Chemical
-    url: /types-of-engineering/chemical/
-  - title: Civil
-    url: /types-of-engineering/civil/
-  - title: Computer
-    url: /types-of-engineering/computer/
-  - title: Electrical
-    url: /types-of-engineering/electrical/
-  - title: Environment
-    url: /types-of-engineering/environment/
-  - title: Geotechnical
-    url: /types-of-engineering/geotechnical/
-  - title: Materials
-    url: /types-of-engineering/materials/
-  - title: Mechanical
-    url: /types-of-engineering/mechanical/
-    
-
-- title: Engineering Careers
-  url: /engineering-careers/bca/
-  sub-links:
-  - title: BCA
-    url: /engineering-careers/bca/
-  - title: CPF
-    url: /engineering-careers/cpf/
-  - title: CSA
-    url: /engineering-careers/csa/
-  - title: DSO
-    url: /engineering-careers/dso/
-  - title: DSTA
-    url: /engineering-careers/dsta/
-  - title: EMA
-    url: /engineering-careers/ema/
-  - title: GovTech
-    url: /engineering-careers/govtech/
-  - title: HDB
-    url: /engineering-careers/hdb/
-  - title: IRAS
-    url: /engineering-careers/iras/
-  - title: JTC
-    url: /engineering-careers/jtc/
-  - title: LTA
-    url: /engineering-careers/LTA/
-  - title: MINDEF
-    url: /engineering-careers/mindef/
-  - title: NEA
-    url: /engineering-careers/nea/
-  - title: PUB
-    url: /engineering-careers/pub/
-  - title: URA
-    url: /engineering-careers/ura/
-
-
-- title: Engineers in Action
-  url: /engineers-in-action/
-
-
-#- title: Resource Room
-#  url: /resource-room/
-#  sub-links:
-#  - title: All
-#    url: /resource-room/
-#  - title: Subcategory A
-#    url: /resource-room/subcategory-A/
-#  - title: Subcategory B
-#    url: /resource-room/subcategory-B/
+logo: /images/logo.png
+links:
+    -
+        title: 'Meet the Engineers'
+        url: /meet-the-engineers/wee-kiang/
+        sublinks:
+            -
+                title: 'Chee Wee Kiang'
+                url: /meet-the-engineers/wee-kiang/
+            -
+                title: 'Ahmad Nadim bin Zainal'
+                url: /meet-the-engineers/ahmad-nadim/
+            -
+                title: 'Norman Tan'
+                url: /meet-the-engineers/Norman/
+            -
+                title: 'Laura Lee'
+                url: /meet-the-engineers/laura/
+            -
+                title: 'Goh Chue Hsien'
+                url: /meet-the-engineers/Goh-Chue-Hsien/
+            -
+                title: 'Faisal Ahmad'
+                url: /meet-the-engineers/Faisal-Ahmad/
+            -
+                title: 'Cindy Wang Xiaochen'
+                url: /meet-the-engineers/Cindy-Wang-Xiaochen/
+            -
+                title: 'Hoon Ding Yi'
+                url: /meet-the-engineers/Hoon-Ding-Yi/
+            -
+                title: 'Idaly Mamat'
+                url: /meet-the-engineers/Idaly-Mamat/
+            -
+                title: 'Zann Tay'
+                url: /meet-the-engineers/Zann-Tay/
+            -
+                title: 'Chee Wee Liang'
+                url: /meet-the-engineers/Chua-Wee-Liang/
+            -
+                title: 'Farook Maideen'
+                url: /meet-the-engineers/Farook-Maideen/
+            -
+                title: 'Khairunnisa Binte Yahya'
+                url: /meet-the-engineers/Khairunnisa-Binte-Yahya/
+            -
+                title: 'Chen Juncheng'
+                url: /meet-the-engineers/Chen-Juncheng/
+    -
+        title: 'Engineering Marvels'
+        url: /engineering-Marvels/Punggol-Digital-District/
+        sublinks:
+            -
+                title: 'Punggol Digital District'
+                url: /engineering-marvels/Punggol-Digital-District/
+            -
+                title: 'Parents Gateway'
+                url: /engineering-marvels/Parents-Gateway/
+            -
+                title: 'Tuas Desalination Plant'
+                url: /engineering-marvels/Tuas-Desalination-Plant/
+            -
+                title: SkyLab
+                url: /engineering-marvels/SkyLab/
+            -
+                title: 'Electronic Tourist Refund Scheme'
+                url: /engineering-marvels/etrs/
+            -
+                title: 'Integrated Digital Delivery'
+                url: /engineering-marvels/idd/
+            -
+                title: 'Flood-free Orchard Road'
+                url: /engineering-marvels/SDC-SDT/
+            -
+                title: 'Jurong Rock Caverns'
+                url: /engineering-marvels/Jurong-Rock-Caverns/
+            -
+                title: 'Smart Planning for HDB Towns'
+                url: /engineering-marvels/Smart-Plan/
+            -
+                title: 'Southern Ridges'
+                url: /engineering-marvels/Southern-Ridges/
+            -
+                title: 'Marina Bay'
+                url: /engineering-marvels/Marina-Bay/
+            -
+                title: 'The Integrated Waste Management Facility'
+                url: /engineering-marvels/iwmf/
+            -
+                title: 'Littoral Mission Vessel'
+                url: /engineering-marvels/Littoral/
+            -
+                title: 'Heron 1 Uav'
+                url: /engineering-marvels/Heron/
+            -
+                title: 'Singapore LNG Terminal'
+                url: /engineering-marvels/LNG/
+            -
+                title: MyResponder
+                url: /engineering-marvels/Myresponder/
+    -
+        title: 'Types of Engineering'
+        url: /types-of-engineering/chemical/
+        sublinks:
+            -
+                title: Chemical
+                url: /types-of-engineering/chemical/
+            -
+                title: Civil
+                url: /types-of-engineering/civil/
+            -
+                title: Computer
+                url: /types-of-engineering/computer/
+            -
+                title: Electrical
+                url: /types-of-engineering/electrical/
+            -
+                title: Environment
+                url: /types-of-engineering/environment/
+            -
+                title: Geotechnical
+                url: /types-of-engineering/geotechnical/
+            -
+                title: Materials
+                url: /types-of-engineering/materials/
+            -
+                title: Mechanical
+                url: /types-of-engineering/mechanical/
+    -
+        title: 'Engineering Careers'
+        url: /engineering-careers/bca/
+        sublinks:
+            -
+                title: BCA
+                url: /engineering-careers/bca/
+            -
+                title: CPF
+                url: /engineering-careers/cpf/
+            -
+                title: CSA
+                url: /engineering-careers/csa/
+            -
+                title: DSO
+                url: /engineering-careers/dso/
+            -
+                title: DSTA
+                url: /engineering-careers/dsta/
+            -
+                title: EMA
+                url: /engineering-careers/ema/
+            -
+                title: GovTech
+                url: /engineering-careers/govtech/
+            -
+                title: HDB
+                url: /engineering-careers/hdb/
+            -
+                title: IRAS
+                url: /engineering-careers/iras/
+            -
+                title: JTC
+                url: /engineering-careers/jtc/
+            -
+                title: LTA
+                url: /engineering-careers/LTA/
+            -
+                title: MINDEF
+                url: /engineering-careers/mindef/
+            -
+                title: NEA
+                url: /engineering-careers/nea/
+            -
+                title: PUB
+                url: /engineering-careers/pub/
+            -
+                title: URA
+                url: /engineering-careers/ura/
+    -
+        title: 'Engineers in Action'
+        url: /engineers-in-action/
