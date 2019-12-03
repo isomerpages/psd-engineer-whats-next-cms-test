@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Chemical
 permalink: /types-of-engineering/chemical/
 breadcrumb: Chemical
-collection_name: types-of-engineering
+
 ---
+
 
 ### HOW WILL YOU ENGINEER WOW?
 
