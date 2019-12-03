@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Chee Wee Kiang
+title: 'Chee Wee Kiang'
 permalink: /meet-the-engineers/wee-kiang/
-breadcrumb: Chee Wee Kiang
-collection_name: meet-the-engineers
+breadcrumb: 'Chee Wee Kiang'
+
 ---
+
 <img src="/images/190x238px-weekiang.jpg" alt="Wee Kiang" style="width:222px;height:278px;" align="left">
 <br clear="left">
 <br>
