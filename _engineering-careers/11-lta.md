@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: LTA
 permalink: /engineering-careers/lta/
 breadcrumb: LTA
-collection_name: engineering-careers
+
 ---
+
 
 ### A BIT ABOUT US
 As one of the largest developers in Singapore, LTA employs state-of-the-art technology and methods in planning, operating, and maintaining Singapore’s land transport infrastructure and systems. Our aim is to make public transport and other mobility forms come alive so travellers of all ages will look forward to their daily journeys. We want to make daily travel a way of life that is healthier, greener and more sustainable. Working with us gives you the tremendous opportunity to make a difference in the lives of millions - from building new MRT lines to designing our roads so pedestrians, cyclists, buses and cars can co-exist.
