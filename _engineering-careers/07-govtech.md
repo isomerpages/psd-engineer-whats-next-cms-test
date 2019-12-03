@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: GovTech
 permalink: /engineering-careers/govtech/
 breadcrumb: GovTech
-collection_name: engineering-careers
+
 ---
+
 
 ### A BIT ABOUT US
 
