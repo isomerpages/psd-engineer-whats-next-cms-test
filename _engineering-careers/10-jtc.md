@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: JTC
 permalink: /engineering-careers/jtc/
 breadcrumb: JTC
-collection_name: engineering-careers
+
 ---
+
 
 ### A BIT ABOUT US
 JTC is the lead government agency responsible for the development of industrial infrastructure to support and catalyse the growth of industries and enterprises in Singapore.
