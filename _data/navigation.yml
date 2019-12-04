@@ -47,7 +47,6 @@ links:
                 url: /meet-the-engineers/Chen-Juncheng/
     -
         title: 'Engineering Marvels'
-        url: /engineering-Marvels/Punggol-Digital-District/
         sublinks:
             -
                 title: 'Punggol Digital District'
@@ -99,7 +98,6 @@ links:
                 url: /engineering-marvels/Myresponder/
     -
         title: 'Types of Engineering'
-        url: /types-of-engineering/chemical/
         sublinks:
             -
                 title: Chemical
@@ -127,7 +125,6 @@ links:
                 url: /types-of-engineering/mechanical/
     -
         title: 'Engineering Careers'
-        url: /engineering-careers/bca/
         sublinks:
             -
                 title: BCA
