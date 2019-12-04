@@ -1,4 +1,5 @@
 ---
 title: 'test '
-permalink: /permalink/
+permalink: /meet-the-engineers/wee-kiang/
 ---
+
